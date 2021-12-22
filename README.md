@@ -84,9 +84,9 @@
     <img src="https://upload.wikimedia.org//wikipedia/en/thumb/c/cc/JavaFX_Logo.png/220px-JavaFX_Logo.png" alt="JavaFX" width="95" height="40"/> 
 </a>
 
-<a href="https://www.gtk.org/" target="_blank"> 
+<!-- <a href="https://www.gtk.org/" target="_blank"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/71/GTK_logo.svg" alt="gtk" width="40" height="40"/> 
-</a> 
+</a>  -->
 
 </p>
 
@@ -104,11 +104,7 @@
 <a href="https://www.nginx.com" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" style="margin-left: 5px;" alt="nginx" width="40" height="40"/> 
 </a> 
-
-<a href="https://flask.palletsprojects.com/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" style="margin-left: 5px;" width="40" height="40"/> 
-</a> 
-
+    
 </p>
 
 <h3 align="left">Database:</h3>
@@ -150,18 +146,10 @@
 
 <a href="https://firebase.google.com/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
-</a> 
+</a>
 
 <a href="https://www.figma.com/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-</a> 
-
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> 
-</a> 
-
-<a href="https://www.photoshop.com/en" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> 
-</a> 
+</a>
 
 </p>
