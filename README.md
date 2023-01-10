@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gustavo Detomi</h1>
 <h3 align="center">Software engineer.</h3>
 
-- 🔭 I’m currently working on [HS Tecnologia](https://hstecnologia.com/).
+- 🔭 I’m currently working on [HS Tecnologia](https://hstecnologia.com.br/).
 
 - 💬 Ask me about **JavaScript, React, React Native, Node.JS, Electron and Postgresql.**
 
