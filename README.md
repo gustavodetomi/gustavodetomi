@@ -130,7 +130,15 @@
 <a href="https://cloud.google.com" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> 
 </a> 
-
+<a href="https://www.digitalocean.com/" rel="noreferrer" target="_blank"> 
+    <img src="https://gustavodetomi.com.br/assets/digital_ocean.svg" alt="digitalocean" width="40" height="40"> 
+</a> 
+<a href="https://www.nginx.com/" rel="noreferrer" target="_blank"> 
+    <img src="https://gustavodetomi.com.br/assets/nginx-original.svg" alt="nginx" width="40" height="40"> 
+</a> 
+<a href="https://pm2.keymetrics.io/" rel="noreferrer" target="_blank"  > 
+    <img src="https://gustavodetomi.com.br/assets/pm2.svg" alt="pm2" width="40" height="40"> 
+</a> 
 </p>
 
 <h3 align="left">Others:</h3>
