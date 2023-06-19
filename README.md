@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [HS Tecnologia](https://hstecnologia.com.br/).
 
-- 💬 Ask me about **JavaScript, React, React Native, Node.JS, Electron and Postgresql.**
+- 💬 Ask me about **JavaScript, TypeScript, React, React Native, Node.JS, Electron and Postgresql.**
 
 - 📫 How to reach me **detomigustavo@gmail.com**
 
